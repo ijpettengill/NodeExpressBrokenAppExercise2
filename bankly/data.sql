@@ -1,4 +1,4 @@
-/* FIXED BUG
+/* FIXED BUG #6
 
 data.sql does not create a database and there are no other files that create one. Without
 a data base, there is nothing to create a table into. Also wrote code to create a test
